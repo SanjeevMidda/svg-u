@@ -8,7 +8,7 @@
 .App {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: end;
   height: 100dvh;
   background: black;
   flex-direction: column;
